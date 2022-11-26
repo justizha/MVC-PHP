@@ -43,7 +43,7 @@ class Siswa_model{
 
         return $this->db->rowCount();
 
-        return $this->db->rowCount();
+        
     }
     public function UbahDataSiswa($data)
     {
